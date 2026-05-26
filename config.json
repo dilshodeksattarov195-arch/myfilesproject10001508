@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscync",
+        "uuid": 11588980,
+        "checksum": "5bunrm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
